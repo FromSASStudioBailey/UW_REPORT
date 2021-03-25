@@ -1,3 +1,5 @@
+libname UW_DATA '/home/sasdemo/UW_DATA/';
+
 /****************************************    READ THIS     ****************************************************/
 /*****  BEFORE RUNNING CODE BELOW MAKE SURE THE FOLDER EXISTS IN THE FILENAME STATEMENT OR POINT AT A DIFFERENT FOLDER IN ALL FILENAME STATEMENTS */
 filename csv "/home/sasdemo/UW_DATA/PREM_LOSS_CLEAN.csv";

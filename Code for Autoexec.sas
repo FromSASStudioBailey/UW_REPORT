@@ -73,4 +73,5 @@ quit;
 
 %END;
 
-
+proc delete data=work.RemoveFormat1;run;
+proc delete data=work.RemoveFormat2;run;
